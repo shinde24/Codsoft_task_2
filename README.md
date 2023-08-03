@@ -3,7 +3,6 @@ We have to develop a calculator program that performs basic arithmetic operation
 
 ## Demonstration -> [Live site](https://shinde24.github.io/Codsoft_task_2/)
 
-
 ## Features
 
 - Responsive: It is a Simple Calculator in which user gives two input numbers and selects an operation to perform.
